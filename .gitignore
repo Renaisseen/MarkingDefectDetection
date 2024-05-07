@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Cable Defect AI/App.config
+/Cable Defect AI/App.config
+/Cable Defect AI/OCR/Recognition.cs
