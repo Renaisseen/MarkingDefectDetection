@@ -9,6 +9,6 @@ Marking defect detection and comparison with expected marking
 *SQLite as local database
 *Telegram.bot + BotFather for user interface part
 ## Main commands
-/set_resource - setting resource binded to current telegram chat session, if exists within database
-/reset - resetting current telegram session
-/help - getting help regarding how to use
+```/set_resource``` - setting resource binded to current telegram chat session, if exists within database
+```/reset``` - resetting current telegram session
+```/help``` - getting help regarding how to use
