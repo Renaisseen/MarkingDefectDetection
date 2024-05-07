@@ -2,8 +2,7 @@
 
 Marking defect detection and comparison with expected marking
 
-> [!NOTE]
-> ## Used tools
+> [## Used tools]
 *OpenCVSharp for image processing
 *Zebra-crossing for QR processing
 *Tesseract as main OCR
